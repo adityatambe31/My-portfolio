@@ -98,5 +98,13 @@ npm install
 ```jsx
 npm start
 ```
+# 📚 Additional Resources
 
-Feel free to explore the repository and provide feedback. Happy coding! 🌟
+[Framer Motion Documentation](https://www.framer.com/motion/) <br/>
+[Tailwind CSS Documentation](https://v2.tailwindcss.com/docs)<br/>
+[React Documentation](https://legacy.reactjs.org/docs/getting-started.html)<br/>
+
+# Feel free to explore the repository and provide feedback. Happy coding! 🌟
+
+- **Email:** aditya.tambe.professional31@gmail.com
+- **LinkedIn:** [Aditya Tambe](https://www.linkedin.com/in/adityatambee/)
