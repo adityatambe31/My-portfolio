@@ -41,7 +41,7 @@ const Tech = () => {
         <motion.div variants={iconVariants(2)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-2">
           <SiJira title="Jira" className="text-7xl" style={{ color: "#0052CC" }} />
         </motion.div>
-        <motion.div variants={iconVariants(2)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-2">
+        <motion.div variants={iconVariants(2.5)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-2">
           <SiJavascript title="JavaScript" className="text-7xl" style={{ color: "#0052CC" }} />
         </motion.div>
       </motion.div>
