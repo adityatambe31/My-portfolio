@@ -1,6 +1,6 @@
 import { RiReactjsLine } from "react-icons/ri";
 import { AiOutlinePython } from "react-icons/ai";
-import { SiCplusplus, SiGit, SiMongodb, SiTailwindcss, SiNodedotjs, SiJira } from "react-icons/si";
+import { SiCplusplus, SiGit, SiMongodb, SiTailwindcss, SiNodedotjs, SiJira, SiJavascript } from "react-icons/si";
 import { motion } from "framer-motion";
 
 const iconVariants = (duration) => ({
@@ -40,6 +40,9 @@ const Tech = () => {
         </motion.div>
         <motion.div variants={iconVariants(2)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-2">
           <SiJira title="Jira" className="text-7xl" style={{ color: "#0052CC" }} />
+        </motion.div>
+        <motion.div variants={iconVariants(2)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-2">
+          <SiJavascript title="JavaScript" className="text-7xl" style={{ color: "#0052CC" }} />
         </motion.div>
       </motion.div>
     </div>
