@@ -3,6 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
+import project5 from "../assets/projects/project-6.png";
 import award1 from "../assets/award1.pdf";
 import award2 from "../assets/award2.pdf";
 import award3 from "../assets/award3.pdf";
@@ -65,6 +66,14 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    title: "🌸 Project Vrindavan 🌸",
+    href: "https://github.com/adityatambe31/Project-Vrindavan",
+    image: project6,
+    description:
+      "A responsive website for ISKCON Toronto with smooth animations and easy navigation. Built with Framer Motion, React Router DOM, and Tailwind CSS, and currently working on the backend with Node.js and MongoDB. Check out how modern web tech blends with tradition! 🚀",
+    technologies: ["ReactJs", "Git", "VS-Code", "Tailwind CSS"],
+  },
   {
     title: "Seneca Housing Hackathon",
     href: "https://github.com/adityatambe31/Seneca-Housing-Hackathon",
