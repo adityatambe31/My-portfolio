@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
-import project5 from "../assets/projects/project-6.png";
+import project6 from "../assets/projects/project-6.png";
 import award1 from "../assets/award1.pdf";
 import award2 from "../assets/award2.pdf";
 import award3 from "../assets/award3.pdf";
