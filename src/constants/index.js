@@ -67,14 +67,6 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "🌸 Project Vrindavan 🌸",
-    href: "https://github.com/adityatambe31/Project-Vrindavan",
-    image: project6,
-    description:
-      "A responsive website for ISKCON Toronto with smooth animations and easy navigation. Built with Framer Motion, React Router DOM, and Tailwind CSS, and currently working on the backend with Node.js and MongoDB. Check out how modern web tech blends with tradition! 🚀",
-    technologies: ["ReactJs", "Git", "VS-Code", "Tailwind CSS"],
-  },
-  {
     title: "Seneca Housing Hackathon",
     href: "https://github.com/adityatambe31/Seneca-Housing-Hackathon",
     image: project1,
@@ -116,6 +108,14 @@ export const PROJECTS = [
     description:
       "A system designed to streamline patient management processes in healthcare facilities. It includes features like patient registration, appointment scheduling, and medical records management.",
     technologies: ["C", "Git", "VS-Code"],
+  },
+  {
+    title: "Project Vrindavan",
+    href: "https://github.com/adityatambe31/Project-Vrindavan",
+    image: project6,
+    description:
+      "A responsive website for ISKCON Toronto with smooth animations and easy navigation. Built with Framer Motion, React Router DOM, and Tailwind CSS, and currently working on the backend with Node.js and MongoDB. Check out how modern web tech blends with tradition! 🚀",
+    technologies: ["ReactJs", "Git", "VS-Code", "Tailwind CSS"],
   },
 ];
 
